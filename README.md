@@ -20,7 +20,6 @@ Predicting survival of Titanic passengers using Machine Learning and Deep Learni
 
 
 
-
 ## How to Run
 1. Clone the repo
 2. Install requirements
